@@ -68,6 +68,21 @@ section {
     }
 /* Hero Style End */
 /*Hero Form Start */
+.hero-cta {
+    text-align: right;
+    color: white;
+    margin-top: 5%;
+    width: 600px;
+    margin-left: 500px;
+    font-size: 18px;
+}
+.hero-cta h2 {
+    font-style: italic, strong;
+    color: #fce138;
+    font-size: 36px;
+    text-align: right;
+    text-w
+}
 .hero-form {
     background-color: #fce138;
     padding: 20px;
