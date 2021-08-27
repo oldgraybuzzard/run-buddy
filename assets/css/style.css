@@ -21,9 +21,8 @@ header {
   position: -webkit-sticky;
   position: sticky;
   top: 0;
-  background-image: url('../images/hero-bg.jpg');
+  background-image: url("../images/hero-bg.jpg");
   background-size: cover;
-  background-position: center;
   background-attachment: fixed;
   background-position: 80%;
 }
@@ -105,11 +104,12 @@ section {
 .hero {
   background-image: url('../images/hero-bg.jpg');
   background-size: cover;
-  background-position: center;
+  background-position: 80%;
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
   align-items: flex-start;
+  background-attachment: fixed;
 }
 .hero-cta {
   width: 35%;
@@ -129,7 +129,7 @@ section {
 
 .hero-form {
   border: 3px solid #024e76;
-  background-color: rgba(252, 225, 56, 0.8);
+  background-color: rgba(255, 225, 56, 0.8);
   padding: 20px;
   color: #024e76;
   width: 40%;
