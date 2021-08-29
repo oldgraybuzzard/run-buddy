@@ -6,6 +6,7 @@
 }
 
 /*end of color variable*/
+
 * {
   box-sizing: border-box;
   margin: 0;
@@ -16,7 +17,6 @@ body {
   color: var(--tertiary-color);
   font-family: Helvetica, Arial, sans-serif;
 }
-
 
 /* HEADER / NAV BAR STYLES START */
 
